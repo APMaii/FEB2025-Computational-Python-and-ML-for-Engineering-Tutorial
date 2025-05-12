@@ -1,10 +1,4 @@
 
-#salam emrooz jalaseye avale 
-#سلام امروز جلسه اوله
-#
-#
-#
-
 '''
 In The Name of GOD
 
