@@ -7,8 +7,6 @@ In The Name of GOD
 
 
 L5_GMLB
-
-
 """
 
 print('salam')
