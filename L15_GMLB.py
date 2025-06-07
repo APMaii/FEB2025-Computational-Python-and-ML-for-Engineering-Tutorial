@@ -4,7 +4,6 @@
 Created on Wed Apr 23 16:36:21 2025
 
 @author: apm
-
 ----l14-----
 review on L14.PY
 
