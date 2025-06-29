@@ -12,7 +12,6 @@ Created on Sun Mar  9 18:04:35 2025
 L8
 
 
-
 """
 
 
