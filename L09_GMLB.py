@@ -1,12 +1,8 @@
-
 """
 In The Name of GOD
-
 Created on Sun Mar 16 18:25:13 2025
 
 @author: Ali Pilhvar Meibody
-
-
 L9-----------
 
 """
