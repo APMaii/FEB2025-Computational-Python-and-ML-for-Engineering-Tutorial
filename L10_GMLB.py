@@ -1,7 +1,5 @@
-
 """
 In The Name of GOD
-
 Happy NowRuz
 Created on Wed Mar 26 18:04:25 2025
 
