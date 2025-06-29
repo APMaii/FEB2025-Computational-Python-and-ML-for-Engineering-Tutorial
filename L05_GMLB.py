@@ -4,8 +4,6 @@ In The Name of GOD
 
 @author: Ali Pilehvar Meibody
 
-
-
 L5_GMLB
 """
 
