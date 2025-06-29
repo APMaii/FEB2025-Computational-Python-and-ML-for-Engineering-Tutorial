@@ -6,8 +6,6 @@ Created on Wed Mar  5 15:36:24 2025
 
 @author: apm
 
-
-
 -------L7---------------
 
 1---6 ----> Python basic --> anaconda, IDE, python variables,
