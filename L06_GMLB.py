@@ -1,6 +1,6 @@
 
 """
-in The Name of GOD
+In The Name of GOD
 
 
 Created on Sun Mar  2 15:34:52 2025
