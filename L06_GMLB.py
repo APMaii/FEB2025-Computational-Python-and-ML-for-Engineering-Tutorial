@@ -7,9 +7,6 @@ Created on Sun Mar  2 15:34:52 2025
 
 @author: apm
 
-
-
-
 L6_GMLB
 
 
