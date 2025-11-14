@@ -1,4 +1,3 @@
-
 '''
 In The Name of GOD
 
@@ -7,7 +6,6 @@ Ali Pilehvar meibody
 salam emrooz jalaseye 2 vome AI az gamlab hast
 
 bayad zabane python ro ejra konam
-
 
 --------
 zaban --> Vocab (kalamat) , grammar (dastoorat)
@@ -18,8 +16,6 @@ yani python mishnasatesh --> print() , input(),len(),type()
 if , else , for , while ,..100
 
 reserved shode --> inaro msihnase
-
-
 
 ----------Kole zaban python--------------
 RESERVED WORDS--> print()  input() if else for ,...... -->rangi msihan
