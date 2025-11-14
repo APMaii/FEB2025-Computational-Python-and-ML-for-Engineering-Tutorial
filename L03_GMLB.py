@@ -1,8 +1,5 @@
-
 """
-
 In The Name of GOD
-
 
 Ali Pilehvar Meibody
 @author: apm
