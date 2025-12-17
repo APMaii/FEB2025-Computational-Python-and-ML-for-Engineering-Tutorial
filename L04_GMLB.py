@@ -112,9 +112,6 @@ a='salam'
 
 print(type(a))
 #<class 'str'>
-
-
-
 a.upper() #'SALAM'
 
 print(a) #salam
