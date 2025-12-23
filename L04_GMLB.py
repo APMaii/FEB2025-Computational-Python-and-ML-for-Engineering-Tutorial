@@ -13,10 +13,7 @@ GMLB_L4
 '''
 REVIEW
 
-
 human ------interface  -----machine
-
-
 interface-->python ----> 2 section
 
 
