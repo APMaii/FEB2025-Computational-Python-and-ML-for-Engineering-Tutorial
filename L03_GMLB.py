@@ -10,8 +10,6 @@ L3_GMLAB
 
 Human (english) --------intermediate language --- Machine ( binary 0,1)
 
-
-
 intermediate languages (C , C++, Python,....)
 
 
