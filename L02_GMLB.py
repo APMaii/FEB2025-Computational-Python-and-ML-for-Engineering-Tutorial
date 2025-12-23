@@ -16,7 +16,6 @@ yani python mishnasatesh --> print() , input(),len(),type()
 if , else , for , while ,..100
 
 reserved shode --> inaro msihnase
-
 ----------Kole zaban python--------------
 RESERVED WORDS--> print()  input() if else for ,...... -->rangi msihan
 UNRESERVED WORDS---> sefid
