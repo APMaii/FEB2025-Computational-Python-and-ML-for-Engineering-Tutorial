@@ -7,7 +7,6 @@ Created on Sun Apr  6 18:06:27 2025
 
 L12
 
-
 --------Python fundemental ---
 -------Libraries------------
 
