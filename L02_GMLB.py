@@ -6,7 +6,6 @@ Ali Pilehvar meibody
 salam emrooz jalaseye 2 vome AI az gamlab hast
 
 bayad zabane python ro ejra konam
-
 --------
 zaban --> Vocab (kalamat) , grammar (dastoorat)
 
