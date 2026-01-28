@@ -9,7 +9,6 @@ L5_GMLB
 
 print('salam')
 
-
 abs(-10)
 
 max(10,20)
