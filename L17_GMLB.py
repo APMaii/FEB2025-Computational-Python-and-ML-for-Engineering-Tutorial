@@ -7,7 +7,6 @@ Created on Sun May  4 17:44:37 2025
 
 @author: apm
 
-
 bad az GMLB_L17.ipynb
 
 
