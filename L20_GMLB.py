@@ -1,13 +1,8 @@
-
 """
-
 In The name of GOD
 Created on Wed May 21 16:31:55 2025
 
 @author: apm
-
-
-
 
 
 ----L20---------
