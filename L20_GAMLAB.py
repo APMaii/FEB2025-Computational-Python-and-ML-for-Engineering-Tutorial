@@ -11,9 +11,6 @@ Created on Wed May 21 16:31:55 2025
 ----3 PART --------
 
 
-
-
-
 ----PART1------------
 python --> IDE , python , anaconda ,...
 basic 
